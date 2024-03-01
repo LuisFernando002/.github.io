@@ -27,4 +27,4 @@ Um botão que copie o texto criptografado/descriptografado para a área de trans
 Tecnologias
 Nesse projeto foram utilizados as seguintes tecnologias:
 
-html5 css3 JavaScript
+html css JavaScript
